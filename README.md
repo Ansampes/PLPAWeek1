@@ -46,3 +46,45 @@ II. Mastering Process: DevOps practices integrated development and operations te
 III. Mastering Machine: The adoption of cloud computing and DevOps enabled organizations to leverage advanced machine capabilities, such as automated scaling and AI-driven monitoring tools, to optimize system performance and reliability.
 
 3. List and briefly explain the phases of the Software Development Life Cycle      
+List and briefly explain the phases of the Software Development Life Cycle.
+Planning, requirement analysis, design, coding, and testing
+
+I. Planning:
+
+* Purpose: Define project scope, goals, timelines, and resources.
+
+* Activities: Identify stakeholders, determine feasibility, and outline project deliverables.
+
+* Outcome: A detailed project plan that guides subsequent phases.
+
+II. Requirement Analysis:
+
+* Purpose: Gather and document all requirements from stakeholders.
+
+* Activities: Conduct interviews, surveys, and workshops to capture functional and non-functional requirements.
+
+* Outcome: A comprehensive requirements document that outlines what the software should do.
+
+III. Design:
+
+* Purpose: Create a detailed blueprint of the software architecture.
+
+* Activities: Develop system architecture, user interface designs, and technical specifications.
+
+* Outcome: A design document that outlines how the software will be built.
+
+IV. Coding:
+
+* Purpose: Translate the design into executable code.
+
+* Activities: Write, review, and refine the source code based on the design specifications.
+
+* Outcome: A working software prototype or build.
+
+V. Testing:
+
+* Purpose: Verify that the software meets the requirements and works as expected.
+
+* Activities: Conduct unit testing, integration testing, system testing, and user acceptance testing (UAT).
+
+* Outcome: A validated software product ready for deployment.
