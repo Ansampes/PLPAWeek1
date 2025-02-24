@@ -17,7 +17,7 @@ III. Innovation and adaptability: it enable the creation of innovative solutions
 
 IV. Structured Approach: In other to reduce risks and costs, softawre engineering uses methodologies like Agile and Scrum for effective projects management.
 
-2.Identify and describe at least three key milestones in the evolution of software engineering. 
+2. Identify and describe at least three key milestones in the evolution of software engineering. 
 
 Answer:
 
@@ -48,6 +48,8 @@ III. Mastering Machine: The adoption of cloud computing and DevOps enabled organ
 3. List and briefly explain the phases of the Software Development Life Cycle      
 List and briefly explain the phases of the Software Development Life Cycle.
 Planning, requirement analysis, design, coding, and testing
+
+Answer:
 
 I. Planning:
 
@@ -89,7 +91,11 @@ V. Testing:
 
 * Outcome: A validated software product ready for deployment.
 
+
+
 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+Answer:
 
 Waterfall Methodology
 
@@ -161,7 +167,10 @@ Waterfall Example: Developing a simple mobile app with a fixed set of features a
 
 Agile Example: Creating a complex enterprise software system where requirements are likely to change based on user feedback.
 
+
 5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+Answer:
 
 Software Developer
 
@@ -244,6 +253,8 @@ Project Management Tools: Familiarity with project management tools (e.g., Agile
 
 6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+Answer:
+
 Integrated Development Environments (IDEs)
 
 Importance
@@ -283,10 +294,13 @@ Mercurial: Another popular distributed VCS, known for its ease of use and speed,
 Integration of IDEs and VCS
 
 Many IDEs integrate seamlessly with VCS, allowing developers to manage code versions directly from their development environment. For example, Eclipse and IntelliJ IDEA both support Git integration, enabling developers to commit changes, manage branches, and resolve conflicts without leaving the IDE.
+
 
 
 7.  Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+Answer:
+
 Integrated Development Environments (IDEs)
 
 Importance
@@ -328,8 +342,10 @@ Integration of IDEs and VCS
 Many IDEs integrate seamlessly with VCS, allowing developers to manage code versions directly from their development environment. For example, Eclipse and IntelliJ IDEA both support Git integration, enabling developers to commit changes, manage branches, and resolve conflicts without leaving the IDE.
 
 
+
 8. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
+Answer:
 
 Vague Prompt
 
