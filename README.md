@@ -380,3 +380,5 @@ Effectiveness:
 Vague: The vague prompt might result in a generic or unfocused story.
 
 Improved: The revised prompt leads to a more engaging and well-structured narrative, as it provides a clear direction and specific elements to explore.
+
+Source: Perplexity. ai
