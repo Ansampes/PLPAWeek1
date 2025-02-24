@@ -160,3 +160,83 @@ Example Scenarios
 Waterfall Example: Developing a simple mobile app with a fixed set of features and a tight deadline.
 
 Agile Example: Creating a complex enterprise software system where requirements are likely to change based on user feedback.
+
+5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+Software Developer
+
+Role
+
+Primary Focus: Design, develop, test, and maintain software applications.
+
+Key Responsibilities:
+
+Coding: Write clean, efficient, and well-documented code.
+
+Debugging: Identify and fix bugs in the software.
+
+Collaboration: Work with other developers to integrate code and resolve issues.
+
+Adaptability: Stay updated with new technologies and methodologies.
+
+Documentation: Maintain accurate records of code changes and updates.
+
+Skills Required
+
+Programming Languages: Proficiency in relevant languages (e.g., Java, Python, JavaScript).
+
+Development Tools: Familiarity with IDEs, version control systems (e.g., Git), and build tools.
+
+Problem-Solving: Strong analytical and problem-solving skills.
+
+Quality Assurance Engineer
+
+Role
+
+Primary Focus: Ensure software meets quality standards by identifying and reporting defects.
+
+Key Responsibilities:
+
+Testing: Develop and execute test cases to validate software functionality.
+
+Defect Reporting: Document and report defects found during testing.
+
+Collaboration: Work with developers to reproduce and resolve issues.
+
+Test Automation: Develop automated tests to improve efficiency.
+
+Quality Standards: Ensure compliance with quality standards and best practices.
+
+Skills Required
+
+Testing Tools: Familiarity with testing frameworks and tools (e.g., Selenium, JUnit).
+
+Analytical Skills: Ability to analyze complex systems and identify potential issues.
+
+Communication: Effective communication to report defects and collaborate with developers.
+
+Project Manager
+
+Role
+
+Primary Focus: Oversee the planning, execution, and delivery of software projects.
+
+Key Responsibilities:
+
+Project Planning: Define project scope, timelines, and resources.
+
+Team Management: Lead and coordinate cross-functional teams.
+
+Risk Management: Identify and mitigate project risks.
+
+Stakeholder Communication: Manage expectations and communicate project status to stakeholders.
+
+Budgeting: Manage project budgets and ensure cost-effectiveness.
+
+Skills Required
+
+Leadership: Strong leadership and team management skills.
+
+Communication: Excellent communication and interpersonal skills.
+
+Project Management Tools: Familiarity with project management tools (e.g., Agile methodologies, Jira).
