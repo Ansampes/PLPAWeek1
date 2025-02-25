@@ -92,8 +92,6 @@ V. Testing:
 
 * Outcome: A validated software product ready for deployment.
 
-
-
 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 Answer:
@@ -167,7 +165,6 @@ Example Scenarios
 * Waterfall Example: Developing a simple mobile app with a fixed set of features and a tight deadline.
 
 * Agile Example: Creating a complex enterprise software system where requirements are likely to change based on user feedback.
-
 
 5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
@@ -295,7 +292,6 @@ Mercurial: Another popular distributed VCS, known for its ease of use and speed,
 * Integration of IDEs and VCS
 
 Many IDEs integrate seamlessly with VCS, allowing developers to manage code versions directly from their development environment. For example, Eclipse and IntelliJ IDEA both support Git integration, enabling developers to commit changes, manage branches, and resolve conflicts without leaving the IDE.
-
 
 7. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
