@@ -1,7 +1,7 @@
-# PLPAWeek1
-Software Emgineering and AI Assignment
+##PLPAWeek1
+## Software Emgineering and AI Assignment
 
-1.Explain what software engineering is and discuss its importance in the technology industry.
+## 1.Explain what software engineering is and discuss its importance in the technology industry.
 
 Answer: 
 
@@ -17,7 +17,7 @@ III. Innovation and adaptability: it enable the creation of innovative solutions
 
 IV. Structured Approach: In other to reduce risks and costs, softawre engineering uses methodologies like Agile and Scrum for effective projects management.
 
-2. Identify and describe at least three key milestones in the evolution of software engineering. 
+## 2. Identify and describe at least three key milestones in the evolution of software engineering. 
 
 Answer:
 
@@ -46,7 +46,7 @@ II. Mastering Process: DevOps practices integrated development and operations te
 
 III. Mastering Machine: The adoption of cloud computing and DevOps enabled organizations to leverage advanced machine capabilities, such as automated scaling and AI-driven monitoring tools, to optimize system performance and reliability.
 
-3. List and briefly explain the phases of the Software Development Life Cycle.
+## 3. List and briefly explain the phases of the Software Development Life Cycle.
          
 Planning, requirement analysis, design, coding, and testing
 
@@ -92,7 +92,7 @@ V. Testing:
 
 * Outcome: A validated software product ready for deployment.
 
-4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+## 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 Answer:
 
@@ -166,7 +166,7 @@ Example Scenarios
 
 * Agile Example: Creating a complex enterprise software system where requirements are likely to change based on user feedback.
 
-5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+## 5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Answer:
 
@@ -249,7 +249,7 @@ Communication: Excellent communication and interpersonal skills.
 Project Management Tools: Familiarity with project management tools (e.g., Agile methodologies, Jira).
 
 
-6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+## 6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 Answer:
 
@@ -293,7 +293,7 @@ Mercurial: Another popular distributed VCS, known for its ease of use and speed,
 
 Many IDEs integrate seamlessly with VCS, allowing developers to manage code versions directly from their development environment. For example, Eclipse and IntelliJ IDEA both support Git integration, enabling developers to commit changes, manage branches, and resolve conflicts without leaving the IDE.
 
-7. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+## 7. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Answer:
 
