@@ -1,7 +1,7 @@
 ##PLPAWeek1
 ## Software Emgineering and AI Assignment
 
-## 1.Explain what software engineering is and discuss its importance in the technology industry.
+## 1. Explain what software engineering is and discuss its importance in the technology industry.
 
 Answer: 
 
